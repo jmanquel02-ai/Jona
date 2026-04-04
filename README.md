@@ -1,7 +1,8 @@
 # Evidencia 02 - Uso de GitHub
 
 ## Integrante
-- Jonathan Eduardo Manquel Aniñir
+- Jonathan Manquel
+- Bastian Escobar
 
 ## Actividades realizadas
 - Creación de repositorio en GitHub
